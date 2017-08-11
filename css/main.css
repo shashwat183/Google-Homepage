@@ -1,5 +1,6 @@
 body{
-  font-family: 13px, sans-serif;
+  font-family:sans-serif;
+  font-size: 13px;
   color: #8E8E8E;
 }
 li{
@@ -75,7 +76,7 @@ ul#right{
 
 
 footer ul{
-  margin-top:8px;
+  margin-top:10px;
   margin-bottom: 8px;
 }
 
